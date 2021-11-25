@@ -6,4 +6,5 @@
 - [ ] Pedra Papel Tesoura terminal 🍞🧻✂
 - [ ] Jogo da forca terminal 🚹
 - [ ] Adivinhe o numero 🎲❔
+- [ ] Batalha naval 🛥💣 (sendo desenvolvido)
 
