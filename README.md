@@ -5,6 +5,6 @@
 - [ ] Jogo da velha terminal ✖🔘
 - [ ] Pedra Papel Tesoura terminal 🍞🧻✂
 - [ ] Jogo da forca terminal 🚹
-- [ ] Adivinhe o numero 🎲❔
+- [x] Adivinhe o numero 🎲❔
 - [ ] Batalha naval 🛥💣 (sendo desenvolvido)
 
