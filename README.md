@@ -2,9 +2,9 @@
 
 - Nesse repositório terá Jogos feitos no curso da MilDevs
 - [x] Jogo da velha interface gráfica ❌⭕
-- [ ] Jogo da velha terminal ✖🔘
-- [ ] Pedra Papel Tesoura terminal 🍞🧻✂
-- [ ] Jogo da forca terminal 🚹
+- [x] Jogo da velha terminal ✖🔘
+- [x] Pedra Papel Tesoura terminal 🍞🧻✂
+- [x] Jogo da forca terminal 🚹
 - [x] Adivinhe o numero 🎲❔
 - [ ] Batalha naval 🛥💣 (sendo desenvolvido)
 
